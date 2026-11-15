@@ -75,6 +75,9 @@ If you do change a macro, add tests to any changes you make using the existing t
 
 ## Review your changes
 
-Use the `/adapters-critic` skill to review your changes before asking for user review, and iterate until the skill says your changes are good enough.
+Use the `/adapters-critic` skill to review your changes before asking for user review, and iterate until the skill says your changes are good enough..
+
+-
+-
 
 
